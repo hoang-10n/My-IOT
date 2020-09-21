@@ -39,11 +39,3 @@ Here we will cover every information you need about our website, our automatic s
    manager
    engineer
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
